@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+agm_dict_validator/__init__.py
+agm_dict_validator/dict_validator.py
+agm_dict_validator.egg-info/PKG-INFO
+agm_dict_validator.egg-info/SOURCES.txt
+agm_dict_validator.egg-info/dependency_links.txt
+agm_dict_validator.egg-info/not-zip-safe
+agm_dict_validator.egg-info/top_level.txt
