@@ -99,4 +99,4 @@ def validate_dict(original_dict: dict, scheme: dict) -> (dict, dict, bool):
     else:
         has_errors = False
 
-    return result_dict, errors, has_errors
+    return result_dict, errors, has_errors  # TODO: add list of descriptions of errors
