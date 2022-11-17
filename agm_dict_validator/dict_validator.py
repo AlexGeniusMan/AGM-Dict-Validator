@@ -27,7 +27,7 @@ def validate_dict(original_dict: dict, scheme: dict) -> (dict, dict, bool):
                                             else add key of value to errors['converting_errors_keys']
         Example:
         {
-            'customer_name': (str, True),
+            'customer_name': (str, True),  # TODO: fix example and add example of usage
             'amount': (str, True),
             'days': (int, True),
         }
